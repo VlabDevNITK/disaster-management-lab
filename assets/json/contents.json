@@ -4,7 +4,8 @@
   "domainName": "..",
   "introduction": ["Introduction for the lab goes here"],
 
-  "objective": ["Objective of the lab goes here"],
+  "objective": ["The intention of developing the Disaster Management Lab is to empower individuals with alternative communication skills, fostering resilience by enabling them to establish effective communication networks during disasters when traditional methods fail. The lab helps the user to understand the concepts related to HAM Radio and Morse code operation, enhancing their ability to support emergency response and coordination efforts in crisis situations.
+"],
 
   "experimentList": {
     "Exploring morse code : Numbers": "https://vlabdevnitk.github.io/exp-dml-numbers/",
@@ -32,8 +33,7 @@
   },
 
   "coarseAlignment": [
-    "Course Name - University name",
-    "Course Name - University name",
+    "Marine Engineering - Visvesvaraya Technological University",
     "Course Name - University name",
     "Course Name - University name",
     "Course Name - University name",
